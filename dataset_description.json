@@ -1,7 +1,9 @@
 {
     "Name": "EEG meditation study",
     "License": "CC0",
-    "Authors": [],
+    "Authors": [
+        "Arnaud Delorme"
+    ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": "",
