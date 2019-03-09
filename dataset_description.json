@@ -1,8 +1,15 @@
 {
     "Name": "EEG meditation study",
+    "License": "CC0",
+    "Authors": [
+        "Arnaud Delorme and Tracy Brandmeyer"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": "",
     "ReferencesAndLinks": [
         "https://www.ncbi.nlm.nih.gov/pubmed/27815577"
     ],
-    "License": "CC0",
+    "DatasetDOI": "",
     "BIDSVersion": "1.1.1"
 }
